@@ -6,9 +6,9 @@ color:
   saturation: 0.3993008118122816
   rhythmicContrast: 0.45231217867694795
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: real
