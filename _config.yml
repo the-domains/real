@@ -1,0 +1,14 @@
+layout_spectrum: 0.35446014045737684
+typography_spectrum: 0.6744328904896975
+color:
+  brandStrength: 0.948128787567839
+  lightness: 0.7912591309286654
+  saturation: 0.3993008118122816
+  rhythmicContrast: 0.45231217867694795
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: real
